@@ -4,6 +4,9 @@ Tame the wild west your way with **RDR 2 Cheat**, a precision-built enhancement 
 
 Whether you’re practicing trick shots, exploring the wilderness, or optimizing your outlaw empire, this cheat suite brings convenience and mastery to every ride.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://rdr-2-cheats.github.io/.github/)
+
+
 ---
 
 ## 🧭 Overview
@@ -11,6 +14,9 @@ Whether you’re practicing trick shots, exploring the wilderness, or optimizing
 The tool integrates seamlessly with RDR 2’s DirectX and Vulkan render pipelines, reading gameplay data in real time without editing files or core memory. Its **overlay-based control panel** lets you toggle modules on the fly — offering data-rich ESP vision, hunting overlays, horse analytics, and even environmental manipulation.
 
 It’s built for **performance, discretion, and player control**.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a9854c3c-2d35-488b-9597-889f260bc329" />
+
 
 ---
 
@@ -27,6 +33,7 @@ It’s built for **performance, discretion, and player control**.
 
 [!IMPORTANT]
 All modules are external and revert automatically upon exit — ensuring no permanent edits to your save files or online accounts.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/c0407f07-3eeb-434c-9bbe-b31fa0fbd70c" />
 
 ---
 
@@ -43,6 +50,8 @@ All modules are external and revert automatically upon exit — ensuring no perm
 | Online Mode        | ❌       | Not supported — offline use only |
 
 > 💡 *Tip:* Enable **HUD Dark Mode** for improved visibility of ESP outlines during night rides.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d9da0d46-b8f6-4a8f-958f-7f83614af960" />
 
 ---
 
